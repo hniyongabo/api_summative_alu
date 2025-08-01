@@ -43,3 +43,4 @@ services:
         ipv4_address: 172.20.0.10
     ports:
       - "2210:22"
+      - "8082:80"
