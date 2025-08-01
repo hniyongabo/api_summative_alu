@@ -194,4 +194,5 @@ To secure the application and avoid baking sensitive information like API keys i
 <img width="1076" height="726" alt="Image" src="https://github.com/user-attachments/assets/5b14b89d-9e8c-42b9-8ea5-cad06d05f907" />
 
 **Demo Video**
+
 https://youtu.be/QKIbJRsfKrI
